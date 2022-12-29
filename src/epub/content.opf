@@ -41,14 +41,14 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85004319</meta>
 		<meta property="se:subject">Poetry</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of Edgar Allan Poe’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2151</dc:source>
 		<dc:source>https://archive.org/details/worksedgarallan00unkngoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">There are many fragments and inconclusively attributed poems in Poe’s corpus. This collection is based on the 1903 collection by P. F. Collier and Son.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Poems_by_Edgar_Allan_Poe</meta>
