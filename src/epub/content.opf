@@ -63,6 +63,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Allan_Poe</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79029745</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="editor">P. F. Collier and Son</dc:contributor>
+		<meta property="file-as" refines="#editor">P. F. Collier and Son</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Peter_F._Collier</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n80079870</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Odilon Redon</dc:contributor>
 		<meta property="file-as" refines="#artist">Redon, Odilon</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Odilon_Redon</meta>
