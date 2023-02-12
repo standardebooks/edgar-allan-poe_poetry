@@ -51,7 +51,9 @@
 		<dc:source>https://en.wikisource.org/wiki/Elizabeth_(Poe)</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Serenade_(Poe)</dc:source>
 		<dc:source>https://archive.org/details/worksedgarallan00unkngoog</dc:source>
+		<!-- An Acrostic and Elizabeth -->
 		<dc:source>https://archive.org/details/cu31924019520810</dc:source>
+		<!-- Serenade -->
 		<dc:source>https://archive.org/details/jstor-2915307</dc:source>
 		<meta property="se:production-notes">There are many fragments and inconclusively attributed poems in Poe’s corpus. This collection is primarily based on the 1903 collection by P. F. Collier and Son.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
