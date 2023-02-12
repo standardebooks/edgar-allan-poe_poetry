@@ -47,8 +47,10 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2151</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/An_Acrostic</dc:source>
 		<dc:source>https://archive.org/details/worksedgarallan00unkngoog</dc:source>
-		<meta property="se:production-notes">There are many fragments and inconclusively attributed poems in Poe’s corpus. This collection is based on the 1903 collection by P. F. Collier and Son.</meta>
+		<dc:source>https://archive.org/details/cu31924019520810</dc:source>
+		<meta property="se:production-notes">There are many fragments and inconclusively attributed poems in Poe’s corpus. This collection is primarily based on the 1903 collection by P. F. Collier and Son.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Poems_by_Edgar_Allan_Poe</meta>
