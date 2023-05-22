@@ -57,7 +57,10 @@
 		<dc:source>https://archive.org/details/cu31924019520810</dc:source>
 		<!-- Serenade -->
 		<dc:source>https://archive.org/details/jstor-2915307</dc:source>
-		<meta property="se:production-notes">There are many fragments and inconclusively attributed poems in Poe’s corpus. This collection is primarily based on the 1903 collection by P. F. Collier and Son. The Gutenberg transcription was of a slightly earlier collection, so has been updated to match the scans.</meta>
+		<meta property="se:production-notes">
+			• There are many fragments and inconclusively attributed poems in Poe’s corpus. This collection is primarily based on the 1903 collection by P. F. Collier and Son. The Gutenberg transcription was of a slightly earlier collection, so has been updated to match the scans.
+			• The poem “Stanzas” was originally untitled, and called in the transcription / scans “In Youth I Have Known One” after the first line. It’s more commonly known nowadays as “Stanzas” so I’ve updated it; see https://www.eapoe.org/works/info/pp018.htm.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Poems_by_Edgar_Allan_Poe</meta>
