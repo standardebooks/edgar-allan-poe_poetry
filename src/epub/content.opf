@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-allan-poe/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-05-30T18:39:29Z</dc:date>
+		<meta property="dcterms:modified">2023-05-30T18:39:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,7 +44,7 @@
 		<dc:description id="description">A collection of Edgar Allan Poe’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt; is one of the most celebrated of American poets. His early work is firmly rooted in the Romanticist tradition, but he quickly found fertile ground in Gothic horror, leading to such renowned poems as “The Raven,” “Lenore,” “Tamerlane,” “The Bells,” “Annabel Lee,” “Eulalie,” and many more.&lt;/p&gt;
-			&lt;p&gt;Poe started his literary career with an underappreciated collection of poetry entitled &lt;i&gt;Tamerlane and Other Poems&lt;/i&gt; (selling merely 50 copies), but his critical success wasn’t assured until the publication of “The Raven” which made Poe a cross-Atlantic household name. Despite Poe’s prolific authorship of &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction"&gt;short stories&lt;/a&gt;, and even a well-regarded novel in &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket"&gt;&lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;&lt;/a&gt;, poetry remained at the core of his writing all the way up until his untimely death at the age of 40.&lt;/p&gt;
+			&lt;p&gt;Poe started his literary career with an underappreciated collection of poetry entitled &lt;i&gt;Tamerlane and Other Poems&lt;/i&gt;. The volume sold a mere 50 copies, and his critical success wasn’t assured until the publication of “The Raven,” which made Poe a cross-Atlantic household name. Despite Poe’s prolific output of &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction"&gt;short stories&lt;/a&gt;, and even a well-regarded novel in &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket"&gt;&lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;&lt;/a&gt;, poetry remained at the core of his writing all the way up until his untimely death at the age of forty.&lt;/p&gt;
 			&lt;p&gt;Collected here is all of Poe’s completed poetry in the public domain, in chronological order of writing. Where poems were originally collected into a single volume and individual writing dates are not available, volume ordering has been preserved.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -62,8 +62,8 @@
 			• Poems from the scans that were marked as “Doubtful” and nowadays are not regarded as authored by Poe have been removed.
 			• The poem “Stanzas” was originally untitled, and called in the transcription / scans “In Youth I Have Known One” after the first line. It’s more commonly known nowadays as “Stanzas” so I’ve updated it; see https://www.eapoe.org/works/info/pp018.htm.
 		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">15736</meta>
+		<meta property="se:reading-ease.flesch">71.28</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Poems_by_Edgar_Allan_Poe</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-allan-poe_poetry</meta>
 		<dc:creator id="author">Edgar Allan Poe</dc:creator>
@@ -94,6 +94,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
