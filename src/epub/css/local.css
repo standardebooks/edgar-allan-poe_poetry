@@ -85,6 +85,10 @@ span.elision{
 	margin-left: 3em;
 }
 
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
