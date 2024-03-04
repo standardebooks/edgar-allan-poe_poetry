@@ -40,6 +40,7 @@
 		<meta property="term" refines="#subject-3">sh85062085</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85004319</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of Edgar Allan Poe’s poetry.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
