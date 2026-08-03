@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-allan-poe/poetry</dc:identifier>
 		<dc:date>2023-05-30T18:39:29Z</dc:date>
@@ -44,12 +44,12 @@
 		<meta property="term" refines="#subject-4">sh85004319</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:description id="description">A collection of Edgar Allan Poe’s poetry.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of Edgar Allan Poe’s poetry.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe"&gt;Edgar Allan Poe&lt;/a&gt; is one of the most celebrated of American poets. His early work is firmly rooted in the Romanticist tradition, but he quickly found fertile ground in Gothic horror, leading to such renowned poems as “The Raven,” “Lenore,” “Tamerlane,” “The Bells,” “Annabel Lee,” “Eulalie,” and many more.&lt;/p&gt;
 			&lt;p&gt;Poe started his literary career with an underappreciated collection of poetry entitled &lt;i&gt;Tamerlane and Other Poems&lt;/i&gt;. The volume sold a mere fifty copies, and his critical success wasn’t assured until the publication of “The Raven,” which made Poe a cross-Atlantic household name. Despite Poe’s prolific output of &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe/short-fiction"&gt;short stories&lt;/a&gt;, and even a well-regarded novel in &lt;a href="https://standardebooks.org/ebooks/edgar-allan-poe/the-narrative-of-arthur-gordon-pym-of-nantucket"&gt;&lt;i&gt;The Narrative of Arthur Gordon Pym of Nantucket&lt;/i&gt;&lt;/a&gt;, poetry remained at the core of his writing all the way up until his untimely death at the age of forty.&lt;/p&gt;
 			&lt;p&gt;Collected here is all of Poe’s completed poetry in the public domain, in chronological order of writing. Where poems were originally collected into a single volume and individual writing dates are not available, volume ordering has been preserved.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2151</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/An_Acrostic</dc:source>
