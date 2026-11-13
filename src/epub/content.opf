@@ -73,7 +73,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="editor">P. F. Collier and Son</dc:contributor>
 		<meta property="file-as" refines="#editor">P. F. Collier and Son</meta>
-		<link href="https://en.wikipedia.org/wiki/Peter_F._Collier" refines="#editor" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Peter_Fenelon_Collier" refines="#editor" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80079870.html" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Odilon Redon</dc:contributor>
